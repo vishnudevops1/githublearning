@@ -1,0 +1,5 @@
+hey vishnu you are doing great job. keep it up
+esc i for insert mode
+esc :wq. for save and exit 
+
+esc :q! for direct out option
